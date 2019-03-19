@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+
+<universe>
+    <namespace id="my_namespace">
+        <tables>
+            <table id="tags">
+                <columns>
+                    <column id="tag">
+                        <datatype>String</datatype>
+                        <nullable>false</nullable>
+                        <default>NA</default>
+                        <explicit_index>false</explicit_index>
+                    </column>
+                </columns>
+            </table>
+        </tables>
+    </namespace>
+</universe>
